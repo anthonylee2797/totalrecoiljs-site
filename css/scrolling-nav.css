@@ -3,6 +3,10 @@
  * Copyright 2013-2020 Start Bootstrap
  * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-scrolling-nav/blob/master/LICENSE)
  */
+.container {
+  max-width: 1800px;
+}
+
 header {
   padding: 156px 0 100px;
 }
@@ -13,10 +17,13 @@ section {
 
 .container-part-1 {
   background-color: rgba(109, 109, 109, 0.205);
+  padding-bottom: 60px;
+  padding-top: 120px;
 }
 
 .github-button {
-  display: flex;
+  position: absolute;
+  font-size: 40px;
 }
 
 .container-part-2 {
@@ -39,10 +46,6 @@ section {
   flex-direction: column;
   align-items: center;
   /* border: dotted; */
-}
-
-.author-name {
-
 }
 
 .profile-pic {
