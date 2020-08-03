@@ -8,5 +8,20 @@ header {
 }
 
 section {
-  padding: 150px 0;
+  padding: 60px 0;
+}
+
+.container-part-1 {
+  background-color: rgba(109, 109, 109, 0.205);
+}
+
+.github-button {
+  display: flex;
+}
+
+.container-part-2 {
+  text-align: center;
+  font-size: 20px;
+  padding: 0px;
+  margin: 0px;
 }
