@@ -53,6 +53,7 @@ section {
   padding: 1em;
   opacity: .5;
   transition: 1.5s;
+  background-color: pink;
 }
 .profile-pic:hover {
   opacity: 1;
@@ -69,3 +70,4 @@ section {
 .author-link {
 
 }
+/* contact section css above */
