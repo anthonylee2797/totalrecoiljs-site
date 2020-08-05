@@ -48,6 +48,10 @@ section {
   /* border: dotted; */
 }
 
+.author-name {
+  font-family: 'Chilanka', cursive;
+}
+
 .profile-pic {
   display: block;
 
@@ -72,5 +76,9 @@ section {
 
 .author-link {
 
+}
+
+.contact-message {
+  font-family: 'Chilanka', cursive;
 }
 /* contact section css above */
