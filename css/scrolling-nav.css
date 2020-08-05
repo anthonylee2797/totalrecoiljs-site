@@ -48,6 +48,10 @@ section {
   /* border: dotted; */
 }
 
+.author-name {
+  font-family: 'Chilanka', cursive;
+}
+
 .profile-pic {
   display: block;
 
@@ -56,6 +60,7 @@ section {
   padding: 1em;
   opacity: .5;
   transition: 1.5s;
+  background-color: pink;
 }
 .profile-pic:hover {
   opacity: 1;
@@ -72,3 +77,8 @@ section {
 .author-link {
 
 }
+
+.contact-message {
+  font-family: 'Chilanka', cursive;
+}
+/* contact section css above */
